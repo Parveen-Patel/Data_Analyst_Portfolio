@@ -46,8 +46,7 @@ This portfolio showcases my projects, skills, and journey in data analytics.
 ---
 
 ## 📫 Contact
-- [LinkedIn](https://linkedin.com/in/patelparveen)  
-- [Email](patelparveen221@gmail.com)  
+- [LinkedIn](https://linkedin.com/in/patelparveen)   
 - [GitHub](https://github.com/Parveen-Patel)
 
 ---
