@@ -36,11 +36,10 @@ This portfolio showcases my projects, skills, and journey in data analytics.
 - Data-driven analysis of road incidents to support decision-making and safety initiatives.
 - **Tools:** MS Excel
 
-### 4. Disha Implementation Monitoring Report
-- Number of schools implementing Disha Abhiyan.
-- Classroom-level observation trends.
-- District and division-wise comparison of implementation.
-- Data-driven insights for effective Disha rollout.
+### 4. Expense Insights Dashboard
+- Track spending, income, and savings.
+- From expenses to clarity in finance.
+- Monitor costs, manage money better.
 - **Tools:** MS Excel
 
 ---
