@@ -25,22 +25,17 @@ This portfolio showcases my projects, skills, and journey in data analytics.
 - Identified seasonal trends and provided actionable insights.  
 - **Tools:** Power BI, Excel
 
-### 2. HR Operations & Strategy Dashboard in MS Excel
+### 2. HR Analytics Dashboard in Power BI
 - Empowering decisions through workforce analytics.
-- Tracking workforce trends for better talent management.
+- Tracking workforce growth and Current Staff Insights.
 - Data-driven HR for organizational growth.
-- **Tools:** MS Excel
+- **Tools:** Power BI, Excel
 
 ### 3. Road Risk Analytics in MS Excel (Power Query + Data Visualisation)
 - Interactive Excel dashboard providing insights into accident frequency, severity, and contributing factors.
 - Data-driven analysis of road incidents to support decision-making and safety initiatives.
 - **Tools:** MS Excel
 
-### 4. Expense Insights Dashboard
-- Track spending, income, and savings.
-- From expenses to clarity in finance.
-- Monitor costs, manage money better.
-- **Tools:** MS Excel
 
 ---
 
