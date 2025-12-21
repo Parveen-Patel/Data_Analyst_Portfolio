@@ -14,10 +14,10 @@ This portfolio showcases my projects, skills, and journey in data analytics.
 ## 📜 Certifications & Virtual Experiences
 
 - Deloitte Australia – Data Analytics Virtual Job Simulation  
-  [Program Link].https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_68d647a8e302418042248cf8_1765798002113_completion_certificate.pdf
+  https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_68d647a8e302418042248cf8_1765798002113_completion_certificate.pdf
 
 - Tata – Data Visualisation: Empowering Business with Effective Insights  
-  [Program Link].https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_68d647a8e302418042248cf8_1765219178857_completion_certificate.pdf
+  https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_68d647a8e302418042248cf8_1765219178857_completion_certificate.pdf
 
 --- 
 
