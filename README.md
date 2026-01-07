@@ -3,7 +3,7 @@ A portfolio showcasing my data analysis projects using Excel, SQL, and Power BI.
 Data Analyst portfolio with case studies, dashboards, and insights.  
 Projects demonstrating skills in data cleaning, visualization, and business intelligence.
 
-# 👋 Hi, I'm Parveen Patel
+# Hi, I'm Parveen Patel
 
 Aspiring **Data Analyst** passionate about transforming raw data into meaningful insights and visual stories.  
 This portfolio showcases my projects, skills, and journey in data analytics.
@@ -11,7 +11,7 @@ This portfolio showcases my projects, skills, and journey in data analytics.
 ---
 
 
-## 📜 Certifications & Virtual Experiences
+## Certifications & Virtual Experiences
 
 - Deloitte Australia – Data Analytics Virtual Job Simulation  
   https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_68d647a8e302418042248cf8_1765798002113_completion_certificate.pdf
@@ -22,7 +22,7 @@ This portfolio showcases my projects, skills, and journey in data analytics.
 --- 
 
 
-## 🔧 Skills & Tools
+## Skills & Tools
 
 - **Databases:** SQL (Microsoft SQL)  
 - **Visualization:** Power BI, Tableau, Excel  
@@ -30,7 +30,7 @@ This portfolio showcases my projects, skills, and journey in data analytics.
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
 ### 1. Retail Insights Hub in Power BI
 - Built an interactive dashboard to analyze regional sales performance.  
@@ -51,7 +51,7 @@ This portfolio showcases my projects, skills, and journey in data analytics.
 
 ---
 
-## 📫 Contact
+## Contact
 - [LinkedIn](https://linkedin.com/in/patelparveen)   
 - [GitHub](https://github.com/Parveen-Patel)
 
